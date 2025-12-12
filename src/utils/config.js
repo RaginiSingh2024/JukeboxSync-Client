@@ -1,5 +1,5 @@
 // Server configuration
-const PRODUCTION_URL = 'https://server-1sly.onrender.com';
+const PRODUCTION_URL = 'https://jukeboxsync-server.onrender.com';
 
 // Ensure we're using the correct URLs based on environment
 const getApiUrl = () => {
